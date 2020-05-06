@@ -6,6 +6,11 @@
     margin: 50px auto 50px;
 }
 
+#projects h1 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 .intro1 {
     padding-top: 30px;
     font-family: 'Libre Baskerville', serif;
