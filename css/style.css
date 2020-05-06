@@ -1,51 +1,62 @@
-#intro{
-    /*margin: 50px auto 50px;*/
-    /*border: 1px #333 solid;*/
-}
-
-#skills{
+#skills {
     margin: 50px auto 50px;
 }
 
-#projects{
+#projects {
     margin: 50px auto 50px;
 }
 
-.intro1{
+.intro1 {
     padding-top: 30px;
     font-family: 'Libre Baskerville', serif;
     font-size: 44px;
 }
 
-.intro2{
+.intro2 {
     padding-top: 10px;
     font-family: 'Libre Baskerville', serif;
     font-size: 20px;
 }
 
-.about{
+.about {
     font-family: Helvetica;
-    font-size : 18px;
+    font-size: 18px;
     line-height: 150%;
 }
 
-.col-auto{
+.col-auto {
     margin: auto;
-
 }
 
-.links ul{
-        padding-left: 0px;
+.links ul {
+    padding-left: 0px;
 }
 
-ul li{
+ul li {
     list-style: none;
     display: inline;
-    padding-left:10px;
+    padding-right: 5px;
 }
 
-.profile{
+.profile {
     border-radius: 50%;
+}
+
+.row {
+    margin: 20px auto 10px;
+}
+
+img {
+    border: 1px #e2e2e2 solid;
+}
+
+#projects h2 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.col-md-4 {
+    padding-bottom: 20px;
 }
 
 .fontawesome {
@@ -76,17 +87,4 @@ a.fontawesome.youtube:hover {
     background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
     background-clip: text;
     -webkit-background-clip: text;
-}
-
-.row{
-    margin: 20px auto 10px;
-}
-
-img{
-    border: 1px #e2e2e2 solid;
-}
-
-#projects h2{
-    text-align: center;
-    padding-bottom: 10px;
 }
